@@ -402,7 +402,7 @@ class MainPage extends Component {
                                             second made with React.js, Javascript, HTML5, CSS3</p>
                                     </div>
                                     <div className="d-flex justify-content-center projectLinks">
-                                        <a href="https://laughing-bhaskara-3612c9.netlify.app/" target="_blank" 
+                                        <a href="https://ubiqumbook.netlify.app/" target="_blank" 
                                         rel="noopener noreferrer"><i>website</i></a>
                                         <p>/</p>
                                         <a href="https://github.com/ericlibardi/bookstore" target="_blank" 
